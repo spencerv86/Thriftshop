@@ -1,4 +1,5 @@
-**Thrift Store²**
+## **Thrift Store²**
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/jerler1/Thriftshop?logo=GitHub&color=critical&style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/jerler1/Thriftshop?color=critical&logo=github&style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jerler1/Thriftshop?color=critical&logo=github&style=for-the-badge)
@@ -50,9 +51,9 @@ Thrift Shop's Shop can perform the following:
 
 ---
 
-There is an admin dashboard that requires authentication to access.  If you wish to peruse the dashboard please email me at jerler.dev@gmail.com.
+There is an admin dashboard that requires authentication to access.  If you wish to peruse the dashboard please email me at spencer.vaughan@gmail.com.
 
-In the admin dashboard you can add/edit items via a cloudinary widget combined with a form.  On the main page of the admin dashboard the options to delete and edit items are on the right side in button format.
+In the admin dashboard you can add/edit items via a Cloudinary widget combined with a form.  On the main page of the admin dashboard the options to delete and edit items are on the right side in button format.
 
 The credit cards used for testing purposes at checkout are:
 
@@ -69,7 +70,7 @@ The credit cards used for testing purposes at checkout are:
 
 Link to the deployed website can be found [here](https://thawing-everglades-67828.herokuapp.com/).
 
-Link to the GitHub repository is [here](https://github.com/jerler1/Thriftshop).
+Link to the GitHub repository is [here](https://github.com/spencerv86/Thriftshop).
 
 ## **Credits**
 
@@ -88,10 +89,11 @@ This software uses the following packages:
 
 ---
 
+- [Spencer Vaughan](https://github.com/spencerv86)
 - [Bradley Donahue](https://github.com/brhue)
 - [John Erler](https://github.com/jerler1)
 - [Nathan Castaldi](https://github.com/ncastaldi)
-- [Spencer Vaughan](https://github.com/spencerv86)
+
 
 ## **License**
 
